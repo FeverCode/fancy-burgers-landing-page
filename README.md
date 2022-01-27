@@ -61,5 +61,7 @@ SOFTWARE.
 
 LinkedIn - [https://www.linkedin.com/in/gedion-onsongo-112543210/)
 
+Reddit - [https://www.reddit.com/user/stainscode]
+
 
 
