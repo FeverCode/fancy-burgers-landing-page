@@ -126,11 +126,7 @@ footer {
     font-weight: 500;
 }
 
-.section4{
-    display: block;
-}
-
-.items {
+.section4 {
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     row-gap: 50px;
@@ -180,8 +176,28 @@ footer {
     flex-direction: row;
 }
 
-image1,.image2{
+.section6-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 20%;
+    align-content: center;
+    align-items: center;
+}
+
+.screen1,.screen2{
     height: 500px;
+
+}
+
+.screen1 {
+    position: relative;
+    display: inline;
+    margin-top: 20%;
+}
+
+.screen2 {
+    position: relative;
 }
 .burger2 img,.burger1 img{
     height: 100%;
