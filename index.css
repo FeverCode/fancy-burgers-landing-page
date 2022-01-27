@@ -147,6 +147,7 @@ footer {
     justify-content: space-evenly;
     padding-top: 50px;
     height: 50%;
+    opacity: 0.7;
 }
 
 .decker{
