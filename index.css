@@ -155,7 +155,8 @@ footer {
     flex-direction: column;
     height: 50%;
     justify-content: center;
-    padding:20px;
+    padding:10px;
+    opacity: 0.7;
 
 }
 .double-burger {
