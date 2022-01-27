@@ -176,28 +176,33 @@ footer {
     flex-direction: row;
 }
 
+.section6 {
+    display: block;
+}
+
 .section6-container {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    height: 20%;
+    height: 200%;
     align-content: center;
     align-items: center;
 }
 
-.screen1,.screen2{
+.screen2,.screen1{
     height: 500px;
 
 }
 
-.screen1 {
+.screen2 {
     position: relative;
     display: inline;
     margin-top: 20%;
 }
 
-.screen2 {
+.screen1 {
     position: relative;
+    display: inline;
 }
 .burger2 img,.burger1 img{
     height: 100%;
